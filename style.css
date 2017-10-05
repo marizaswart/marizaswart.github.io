@@ -7,14 +7,12 @@ body {
    font-family: sans-serif;
 }
 
-link {
-  color: #032549;
-  }
-  /* CSS link color (red) */
+a, ul {
+  color: #2E4053;
+}
 
-link:hover {
-   color: #00FF00;
-  }
-  /* CSS link hover (green) */
-
-  
+p {
+  background: #10869C;
+  color: #FBFDFC;
+  padding: 10px;
+}
