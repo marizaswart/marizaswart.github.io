@@ -1,12 +1,12 @@
 h1 {
-  color: #FFDF00;
+  color: black;
   padding: 20px;
   font-family: verdana;
 }
 
 body {
    font-family: sans-serif;
-   background-color: #777;
+   background-color: white;
 }
 
 a {
@@ -39,7 +39,7 @@ li a:hover {
 }
 
 p {
-  color: #FBFDFC;
+  color: black;
   padding: 10px;
 }
 
